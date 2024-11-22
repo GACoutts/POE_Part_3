@@ -1,0 +1,30 @@
+﻿
+"@*
+    @model POE_Part_3.Models.User
+
+<h2>Edit User</h2>
+<form method="post" asp-action="EditUser">
+    <div>
+        <label for="Name">Name:</label>
+        <input type="text" id="Name" name="Name" value="@Model.Name" required />
+    </div>
+    <div>
+        <label for="Surname">Surname:</label>
+        <input type="text" id="Surname" name="Surname" value="@Model.Surname" required />
+    </div>
+    <div>
+        <label for="ContactInfo">Contact Info:</label>
+        <input type="text" id="ContactInfo" name="ContactInfo" value="@Model.ContactInfo" required />
+    </div>
+    <div>
+        <label for="Role">Role:</label>
+        <select id="Role" name="Role" required>
+            <option value="User" @(Model.Role == "User" ? "selected" : "")>User</option>
+            <option value="Admin" @(Model.Role == "Admin" ? "selected" : "")>Admin</option>
+            <option value="HR" @(Model.Role == "HR" ? "selected" : "")>HR</option>
+        </select>
+    </div>
+    <button type="submit">Update</button>
+</form>
+
+*@"

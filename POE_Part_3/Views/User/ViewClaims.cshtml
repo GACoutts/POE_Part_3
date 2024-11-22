@@ -1,0 +1,33 @@
+﻿@{
+    ViewData["Title"] = "My Claims";
+    Layout = "~/Views/Shared/_Layout.cshtml"; // Optional layout
+}
+
+<h2>My Claims</h2>
+
+    <table>
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Status</th>
+                <th>Total Amount</th>
+                <th>Notes</th>
+                <th>File</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var claim in Model)
+            {
+                <tr>
+                    <td>@claim.Id</td>
+                    <td>@claim.Status</td>
+                    <td>@claim.TotalAmount</td>
+                    <td>@claim.Notes</td>
+                    <td>@(string.IsNullOrEmpty(claim.FilePath) ? "No file" : claim.FilePath)</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+<a asp-controller="User" asp-action="AddClaim">Add New Claim</a>
+<a asp-controller="Account" asp-action="Login" style="float:right;">Logout</a>

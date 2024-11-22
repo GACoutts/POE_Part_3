@@ -1,0 +1,25 @@
+﻿@{
+    ViewData["Title"] = "Add Claim";
+}
+
+<h2>Add Claim</h2>
+<form method="post" asp-controller="User" asp-action="AddClaim" enctype="multipart/form-data">
+    <div>
+        <label for="hoursWorked">Hours Worked:</label>
+        <input type="number" id="hoursWorked" name="HoursWorked" required />
+    </div>
+    <div>
+        <label for="hourlyRate">Hourly Rate:</label>
+        <input type="number" id="hourlyRate" name="HourlyRate" required />
+    </div>
+    <div>
+        <label for="notes">Notes:</label>
+        <textarea id="notes" name="Notes"></textarea>
+    </div>
+    <div>
+        <label for="file">Upload File:</label>
+        <input type="file" id="file" name="file" accept=".docx,.pdf,.xlsx" />
+    </div>
+    <button type="submit">Submit Claim</button>
+</form>
+<a asp-controller="User" asp-action="ViewClaims">Back to Claims</a>

@@ -1,0 +1,79 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = POE_Part_3
+build_property.RootNamespace = POE_Part_3
+build_property.ProjectDir = D:\_UNI Stuff\Programming\Coding_Projects\POE_Part_3\POE_Part_3\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\_UNI Stuff\Programming\Coding_Projects\POE_Part_3\POE_Part_3
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/_UNI Stuff/Programming/Coding_Projects/POE_Part_3/POE_Part_3/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/_UNI Stuff/Programming/Coding_Projects/POE_Part_3/POE_Part_3/Views/Account/Signup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxTaWdudXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/_UNI Stuff/Programming/Coding_Projects/POE_Part_3/POE_Part_3/Views/Admin/AllClaims.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWxsQ2xhaW1zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/_UNI Stuff/Programming/Coding_Projects/POE_Part_3/POE_Part_3/Views/HR/AcceptedClaimsReport.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSFJcQWNjZXB0ZWRDbGFpbXNSZXBvcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/_UNI Stuff/Programming/Coding_Projects/POE_Part_3/POE_Part_3/Views/HR/EditUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSFJcRWRpdFVzZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/_UNI Stuff/Programming/Coding_Projects/POE_Part_3/POE_Part_3/Views/HR/UserData.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSFJcVXNlckRhdGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/_UNI Stuff/Programming/Coding_Projects/POE_Part_3/POE_Part_3/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/_UNI Stuff/Programming/Coding_Projects/POE_Part_3/POE_Part_3/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/_UNI Stuff/Programming/Coding_Projects/POE_Part_3/POE_Part_3/Views/User/AddClaim.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxBZGRDbGFpbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/_UNI Stuff/Programming/Coding_Projects/POE_Part_3/POE_Part_3/Views/User/ViewClaims.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxWaWV3Q2xhaW1zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/_UNI Stuff/Programming/Coding_Projects/POE_Part_3/POE_Part_3/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/_UNI Stuff/Programming/Coding_Projects/POE_Part_3/POE_Part_3/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/_UNI Stuff/Programming/Coding_Projects/POE_Part_3/POE_Part_3/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-tbpz0z28e0

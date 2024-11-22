@@ -1,0 +1,393 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\_UNI Stuff\\Programming\\Coding_Projects\\POE_Part_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4180C2-95D3-4F4D-9E5E-59394310B44C}|POE_Part_3\\POE_Part_3.csproj|d:\\_uni stuff\\programming\\coding_projects\\poe_part_3\\poe_part_3\\views\\hr\\userdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA4180C2-95D3-4F4D-9E5E-59394310B44C}|POE_Part_3\\POE_Part_3.csproj|solutionrelative:poe_part_3\\views\\hr\\userdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4180C2-95D3-4F4D-9E5E-59394310B44C}|POE_Part_3\\POE_Part_3.csproj|d:\\_uni stuff\\programming\\coding_projects\\poe_part_3\\poe_part_3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DA4180C2-95D3-4F4D-9E5E-59394310B44C}|POE_Part_3\\POE_Part_3.csproj|solutionrelative:poe_part_3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4180C2-95D3-4F4D-9E5E-59394310B44C}|POE_Part_3\\POE_Part_3.csproj|d:\\_uni stuff\\programming\\coding_projects\\poe_part_3\\poe_part_3\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA4180C2-95D3-4F4D-9E5E-59394310B44C}|POE_Part_3\\POE_Part_3.csproj|solutionrelative:poe_part_3\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4180C2-95D3-4F4D-9E5E-59394310B44C}|POE_Part_3\\POE_Part_3.csproj|d:\\_uni stuff\\programming\\coding_projects\\poe_part_3\\poe_part_3\\controllers\\hrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA4180C2-95D3-4F4D-9E5E-59394310B44C}|POE_Part_3\\POE_Part_3.csproj|solutionrelative:poe_part_3\\controllers\\hrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4180C2-95D3-4F4D-9E5E-59394310B44C}|POE_Part_3\\POE_Part_3.csproj|d:\\_uni stuff\\programming\\coding_projects\\poe_part_3\\poe_part_3\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA4180C2-95D3-4F4D-9E5E-59394310B44C}|POE_Part_3\\POE_Part_3.csproj|solutionrelative:poe_part_3\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4180C2-95D3-4F4D-9E5E-59394310B44C}|POE_Part_3\\POE_Part_3.csproj|d:\\_uni stuff\\programming\\coding_projects\\poe_part_3\\poe_part_3\\views\\user\\viewclaims.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA4180C2-95D3-4F4D-9E5E-59394310B44C}|POE_Part_3\\POE_Part_3.csproj|solutionrelative:poe_part_3\\views\\user\\viewclaims.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4180C2-95D3-4F4D-9E5E-59394310B44C}|POE_Part_3\\POE_Part_3.csproj|d:\\_uni stuff\\programming\\coding_projects\\poe_part_3\\poe_part_3\\views\\user\\addclaim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA4180C2-95D3-4F4D-9E5E-59394310B44C}|POE_Part_3\\POE_Part_3.csproj|solutionrelative:poe_part_3\\views\\user\\addclaim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4180C2-95D3-4F4D-9E5E-59394310B44C}|POE_Part_3\\POE_Part_3.csproj|d:\\_uni stuff\\programming\\coding_projects\\poe_part_3\\poe_part_3\\views\\hr\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA4180C2-95D3-4F4D-9E5E-59394310B44C}|POE_Part_3\\POE_Part_3.csproj|solutionrelative:poe_part_3\\views\\hr\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4180C2-95D3-4F4D-9E5E-59394310B44C}|POE_Part_3\\POE_Part_3.csproj|d:\\_uni stuff\\programming\\coding_projects\\poe_part_3\\poe_part_3\\views\\hr\\acceptedclaimsreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA4180C2-95D3-4F4D-9E5E-59394310B44C}|POE_Part_3\\POE_Part_3.csproj|solutionrelative:poe_part_3\\views\\hr\\acceptedclaimsreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4180C2-95D3-4F4D-9E5E-59394310B44C}|POE_Part_3\\POE_Part_3.csproj|d:\\_uni stuff\\programming\\coding_projects\\poe_part_3\\poe_part_3\\views\\admin\\allclaims.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA4180C2-95D3-4F4D-9E5E-59394310B44C}|POE_Part_3\\POE_Part_3.csproj|solutionrelative:poe_part_3\\views\\admin\\allclaims.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4180C2-95D3-4F4D-9E5E-59394310B44C}|POE_Part_3\\POE_Part_3.csproj|d:\\_uni stuff\\programming\\coding_projects\\poe_part_3\\poe_part_3\\views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA4180C2-95D3-4F4D-9E5E-59394310B44C}|POE_Part_3\\POE_Part_3.csproj|solutionrelative:poe_part_3\\views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4180C2-95D3-4F4D-9E5E-59394310B44C}|POE_Part_3\\POE_Part_3.csproj|d:\\_uni stuff\\programming\\coding_projects\\poe_part_3\\poe_part_3\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA4180C2-95D3-4F4D-9E5E-59394310B44C}|POE_Part_3\\POE_Part_3.csproj|solutionrelative:poe_part_3\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4180C2-95D3-4F4D-9E5E-59394310B44C}|POE_Part_3\\POE_Part_3.csproj|d:\\_uni stuff\\programming\\coding_projects\\poe_part_3\\poe_part_3\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA4180C2-95D3-4F4D-9E5E-59394310B44C}|POE_Part_3\\POE_Part_3.csproj|solutionrelative:poe_part_3\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4180C2-95D3-4F4D-9E5E-59394310B44C}|POE_Part_3\\POE_Part_3.csproj|d:\\_uni stuff\\programming\\coding_projects\\poe_part_3\\poe_part_3\\models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA4180C2-95D3-4F4D-9E5E-59394310B44C}|POE_Part_3\\POE_Part_3.csproj|solutionrelative:poe_part_3\\models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4180C2-95D3-4F4D-9E5E-59394310B44C}|POE_Part_3\\POE_Part_3.csproj|d:\\_uni stuff\\programming\\coding_projects\\poe_part_3\\poe_part_3\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA4180C2-95D3-4F4D-9E5E-59394310B44C}|POE_Part_3\\POE_Part_3.csproj|solutionrelative:poe_part_3\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4180C2-95D3-4F4D-9E5E-59394310B44C}|POE_Part_3\\POE_Part_3.csproj|d:\\_uni stuff\\programming\\coding_projects\\poe_part_3\\poe_part_3\\migrations\\20241121174007_makefilepathnullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA4180C2-95D3-4F4D-9E5E-59394310B44C}|POE_Part_3\\POE_Part_3.csproj|solutionrelative:poe_part_3\\migrations\\20241121174007_makefilepathnullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4180C2-95D3-4F4D-9E5E-59394310B44C}|POE_Part_3\\POE_Part_3.csproj|d:\\_uni stuff\\programming\\coding_projects\\poe_part_3\\poe_part_3\\migrations\\20241121154853_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA4180C2-95D3-4F4D-9E5E-59394310B44C}|POE_Part_3\\POE_Part_3.csproj|solutionrelative:poe_part_3\\migrations\\20241121154853_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4180C2-95D3-4F4D-9E5E-59394310B44C}|POE_Part_3\\POE_Part_3.csproj|d:\\_uni stuff\\programming\\coding_projects\\poe_part_3\\poe_part_3\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA4180C2-95D3-4F4D-9E5E-59394310B44C}|POE_Part_3\\POE_Part_3.csproj|solutionrelative:poe_part_3\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4180C2-95D3-4F4D-9E5E-59394310B44C}|POE_Part_3\\POE_Part_3.csproj|d:\\_uni stuff\\programming\\coding_projects\\poe_part_3\\poe_part_3\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA4180C2-95D3-4F4D-9E5E-59394310B44C}|POE_Part_3\\POE_Part_3.csproj|solutionrelative:poe_part_3\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4180C2-95D3-4F4D-9E5E-59394310B44C}|POE_Part_3\\POE_Part_3.csproj|d:\\_uni stuff\\programming\\coding_projects\\poe_part_3\\poe_part_3\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA4180C2-95D3-4F4D-9E5E-59394310B44C}|POE_Part_3\\POE_Part_3.csproj|solutionrelative:poe_part_3\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4180C2-95D3-4F4D-9E5E-59394310B44C}|POE_Part_3\\POE_Part_3.csproj|d:\\_uni stuff\\programming\\coding_projects\\poe_part_3\\poe_part_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA4180C2-95D3-4F4D-9E5E-59394310B44C}|POE_Part_3\\POE_Part_3.csproj|solutionrelative:poe_part_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4180C2-95D3-4F4D-9E5E-59394310B44C}|POE_Part_3\\POE_Part_3.csproj|d:\\_uni stuff\\programming\\coding_projects\\poe_part_3\\poe_part_3\\migrations\\20241121174007_makefilepathnullable.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA4180C2-95D3-4F4D-9E5E-59394310B44C}|POE_Part_3\\POE_Part_3.csproj|solutionrelative:poe_part_3\\migrations\\20241121174007_makefilepathnullable.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ViewClaims.cshtml",
+              "DocumentMoniker": "D:\\_UNI Stuff\\Programming\\Coding_Projects\\POE_Part_3\\POE_Part_3\\Views\\User\\ViewClaims.cshtml",
+              "RelativeDocumentMoniker": "POE_Part_3\\Views\\User\\ViewClaims.cshtml",
+              "ToolTip": "D:\\_UNI Stuff\\Programming\\Coding_Projects\\POE_Part_3\\POE_Part_3\\Views\\User\\ViewClaims.cshtml",
+              "RelativeToolTip": "POE_Part_3\\Views\\User\\ViewClaims.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwBgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T11:13:31.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserData.cshtml",
+              "DocumentMoniker": "D:\\_UNI Stuff\\Programming\\Coding_Projects\\POE_Part_3\\POE_Part_3\\Views\\HR\\UserData.cshtml",
+              "RelativeDocumentMoniker": "POE_Part_3\\Views\\HR\\UserData.cshtml",
+              "ToolTip": "D:\\_UNI Stuff\\Programming\\Coding_Projects\\POE_Part_3\\POE_Part_3\\Views\\HR\\UserData.cshtml",
+              "RelativeToolTip": "POE_Part_3\\Views\\HR\\UserData.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T11:13:30.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\_UNI Stuff\\Programming\\Coding_Projects\\POE_Part_3\\POE_Part_3\\appsettings.json",
+              "RelativeDocumentMoniker": "POE_Part_3\\appsettings.json",
+              "ToolTip": "D:\\_UNI Stuff\\Programming\\Coding_Projects\\POE_Part_3\\POE_Part_3\\appsettings.json",
+              "RelativeToolTip": "POE_Part_3\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-21T12:02:00.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddClaim.cshtml",
+              "DocumentMoniker": "D:\\_UNI Stuff\\Programming\\Coding_Projects\\POE_Part_3\\POE_Part_3\\Views\\User\\AddClaim.cshtml",
+              "RelativeDocumentMoniker": "POE_Part_3\\Views\\User\\AddClaim.cshtml",
+              "ToolTip": "D:\\_UNI Stuff\\Programming\\Coding_Projects\\POE_Part_3\\POE_Part_3\\Views\\User\\AddClaim.cshtml",
+              "RelativeToolTip": "POE_Part_3\\Views\\User\\AddClaim.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T11:13:31.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AcceptedClaimsReport.cshtml",
+              "DocumentMoniker": "D:\\_UNI Stuff\\Programming\\Coding_Projects\\POE_Part_3\\POE_Part_3\\Views\\HR\\AcceptedClaimsReport.cshtml",
+              "RelativeDocumentMoniker": "POE_Part_3\\Views\\HR\\AcceptedClaimsReport.cshtml",
+              "ToolTip": "D:\\_UNI Stuff\\Programming\\Coding_Projects\\POE_Part_3\\POE_Part_3\\Views\\HR\\AcceptedClaimsReport.cshtml",
+              "RelativeToolTip": "POE_Part_3\\Views\\HR\\AcceptedClaimsReport.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T11:13:29.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AllClaims.cshtml",
+              "DocumentMoniker": "D:\\_UNI Stuff\\Programming\\Coding_Projects\\POE_Part_3\\POE_Part_3\\Views\\Admin\\AllClaims.cshtml",
+              "RelativeDocumentMoniker": "POE_Part_3\\Views\\Admin\\AllClaims.cshtml",
+              "ToolTip": "D:\\_UNI Stuff\\Programming\\Coding_Projects\\POE_Part_3\\POE_Part_3\\Views\\Admin\\AllClaims.cshtml",
+              "RelativeToolTip": "POE_Part_3\\Views\\Admin\\AllClaims.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T11:13:28.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Signup.cshtml",
+              "DocumentMoniker": "D:\\_UNI Stuff\\Programming\\Coding_Projects\\POE_Part_3\\POE_Part_3\\Views\\Account\\Signup.cshtml",
+              "RelativeDocumentMoniker": "POE_Part_3\\Views\\Account\\Signup.cshtml",
+              "ToolTip": "D:\\_UNI Stuff\\Programming\\Coding_Projects\\POE_Part_3\\POE_Part_3\\Views\\Account\\Signup.cshtml",
+              "RelativeToolTip": "POE_Part_3\\Views\\Account\\Signup.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T11:13:28.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\_UNI Stuff\\Programming\\Coding_Projects\\POE_Part_3\\POE_Part_3\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "POE_Part_3\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\_UNI Stuff\\Programming\\Coding_Projects\\POE_Part_3\\POE_Part_3\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "POE_Part_3\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T11:13:27.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\_UNI Stuff\\Programming\\Coding_Projects\\POE_Part_3\\POE_Part_3\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "POE_Part_3\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\_UNI Stuff\\Programming\\Coding_Projects\\POE_Part_3\\POE_Part_3\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "POE_Part_3\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAqwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T11:13:24.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20241121174007_MakeFilePathNullable.cs",
+              "DocumentMoniker": "D:\\_UNI Stuff\\Programming\\Coding_Projects\\POE_Part_3\\POE_Part_3\\Migrations\\20241121174007_MakeFilePathNullable.cs",
+              "RelativeDocumentMoniker": "POE_Part_3\\Migrations\\20241121174007_MakeFilePathNullable.cs",
+              "ToolTip": "D:\\_UNI Stuff\\Programming\\Coding_Projects\\POE_Part_3\\POE_Part_3\\Migrations\\20241121174007_MakeFilePathNullable.cs",
+              "RelativeToolTip": "POE_Part_3\\Migrations\\20241121174007_MakeFilePathNullable.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T11:13:24.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20241121154853_InitialCreate.cs",
+              "DocumentMoniker": "D:\\_UNI Stuff\\Programming\\Coding_Projects\\POE_Part_3\\POE_Part_3\\Migrations\\20241121154853_InitialCreate.cs",
+              "RelativeDocumentMoniker": "POE_Part_3\\Migrations\\20241121154853_InitialCreate.cs",
+              "ToolTip": "D:\\_UNI Stuff\\Programming\\Coding_Projects\\POE_Part_3\\POE_Part_3\\Migrations\\20241121154853_InitialCreate.cs",
+              "RelativeToolTip": "POE_Part_3\\Migrations\\20241121154853_InitialCreate.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAiwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T11:13:23.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\_UNI Stuff\\Programming\\Coding_Projects\\POE_Part_3\\POE_Part_3\\Models\\User.cs",
+              "RelativeDocumentMoniker": "POE_Part_3\\Models\\User.cs",
+              "ToolTip": "D:\\_UNI Stuff\\Programming\\Coding_Projects\\POE_Part_3\\POE_Part_3\\Models\\User.cs",
+              "RelativeToolTip": "POE_Part_3\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T11:13:21.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\_UNI Stuff\\Programming\\Coding_Projects\\POE_Part_3\\POE_Part_3\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "POE_Part_3\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\_UNI Stuff\\Programming\\Coding_Projects\\POE_Part_3\\POE_Part_3\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "POE_Part_3\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T11:13:21.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HrController.cs",
+              "DocumentMoniker": "D:\\_UNI Stuff\\Programming\\Coding_Projects\\POE_Part_3\\POE_Part_3\\Controllers\\HrController.cs",
+              "RelativeDocumentMoniker": "POE_Part_3\\Controllers\\HrController.cs",
+              "ToolTip": "D:\\_UNI Stuff\\Programming\\Coding_Projects\\POE_Part_3\\POE_Part_3\\Controllers\\HrController.cs",
+              "RelativeToolTip": "POE_Part_3\\Controllers\\HrController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAiwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T11:13:18.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\_UNI Stuff\\Programming\\Coding_Projects\\POE_Part_3\\POE_Part_3\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "POE_Part_3\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\_UNI Stuff\\Programming\\Coding_Projects\\POE_Part_3\\POE_Part_3\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "POE_Part_3\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T11:13:17.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\_UNI Stuff\\Programming\\Coding_Projects\\POE_Part_3\\POE_Part_3\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "POE_Part_3\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\_UNI Stuff\\Programming\\Coding_Projects\\POE_Part_3\\POE_Part_3\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "POE_Part_3\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAUwCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T10:11:42.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\_UNI Stuff\\Programming\\Coding_Projects\\POE_Part_3\\POE_Part_3\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "POE_Part_3\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\_UNI Stuff\\Programming\\Coding_Projects\\POE_Part_3\\POE_Part_3\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "POE_Part_3\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T10:03:52.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\_UNI Stuff\\Programming\\Coding_Projects\\POE_Part_3\\POE_Part_3\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "POE_Part_3\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\_UNI Stuff\\Programming\\Coding_Projects\\POE_Part_3\\POE_Part_3\\Controllers\\UserController.cs",
+              "RelativeToolTip": "POE_Part_3\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAqwJkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T08:52:38.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EditUser.cshtml",
+              "DocumentMoniker": "D:\\_UNI Stuff\\Programming\\Coding_Projects\\POE_Part_3\\POE_Part_3\\Views\\HR\\EditUser.cshtml",
+              "RelativeDocumentMoniker": "POE_Part_3\\Views\\HR\\EditUser.cshtml",
+              "ToolTip": "D:\\_UNI Stuff\\Programming\\Coding_Projects\\POE_Part_3\\POE_Part_3\\Views\\HR\\EditUser.cshtml",
+              "RelativeToolTip": "POE_Part_3\\Views\\HR\\EditUser.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T23:04:25.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Claim.cs",
+              "DocumentMoniker": "D:\\_UNI Stuff\\Programming\\Coding_Projects\\POE_Part_3\\POE_Part_3\\Models\\Claim.cs",
+              "RelativeDocumentMoniker": "POE_Part_3\\Models\\Claim.cs",
+              "ToolTip": "D:\\_UNI Stuff\\Programming\\Coding_Projects\\POE_Part_3\\POE_Part_3\\Models\\Claim.cs",
+              "RelativeToolTip": "POE_Part_3\\Models\\Claim.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:16:03.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\_UNI Stuff\\Programming\\Coding_Projects\\POE_Part_3\\POE_Part_3\\Program.cs",
+              "RelativeDocumentMoniker": "POE_Part_3\\Program.cs",
+              "ToolTip": "D:\\_UNI Stuff\\Programming\\Coding_Projects\\POE_Part_3\\POE_Part_3\\Program.cs",
+              "RelativeToolTip": "POE_Part_3\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T12:22:57.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20241121174007_MakeFilePathNullable.Designer.cs",
+              "DocumentMoniker": "D:\\_UNI Stuff\\Programming\\Coding_Projects\\POE_Part_3\\POE_Part_3\\Migrations\\20241121174007_MakeFilePathNullable.Designer.cs",
+              "RelativeDocumentMoniker": "POE_Part_3\\Migrations\\20241121174007_MakeFilePathNullable.Designer.cs",
+              "ToolTip": "D:\\_UNI Stuff\\Programming\\Coding_Projects\\POE_Part_3\\POE_Part_3\\Migrations\\20241121174007_MakeFilePathNullable.Designer.cs",
+              "RelativeToolTip": "POE_Part_3\\Migrations\\20241121174007_MakeFilePathNullable.Designer.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAowEgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:45:45.296Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

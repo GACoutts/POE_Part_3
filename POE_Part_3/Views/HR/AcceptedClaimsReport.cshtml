@@ -1,0 +1,38 @@
+﻿@model IEnumerable<POE_Part_3.Models.Claim>
+
+@{
+    ViewData["Title"] = "All Accepted Claims";
+}
+
+<h2>All Accepted Claims</h2>
+<table>
+    <thead>
+        <tr>
+            <th>Claim ID</th>
+            <th>User ID</th>
+            <th>Hours Worked</th>
+            <th>Hourly Rate</th>
+            <th>Total Amount</th>
+            <th>Status</th>
+            <th>File</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var claim in Model)
+        {
+            <tr>
+                <td>@claim.Id</td>
+                <td>@claim.UserId</td>
+                <td>@claim.HoursWorked</td>
+                <td>@claim.HourlyRate</td>
+                <td>@claim.TotalAmount</td>
+                <td>@claim.Status</td>
+            </tr>
+        }
+    </tbody>
+</table>
+<a asp-controller="Hr" asp-action="GenerateAcceptedClaimsReport" class="btn btn-primary">
+    Download Accepted Claims Report
+</a>
+
+<a asp-controller="Account" asp-action="Login" style="float:right;">Logout</a>

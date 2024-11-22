@@ -1,0 +1,35 @@
+﻿@{
+    ViewData["Title"] = "User Data";
+}
+
+<h2>User Data</h2>
+<table>
+    <thead>
+        <tr>
+            <th>User ID</th>
+            <th>Name</th>
+            <th>Surname</th>
+            <th>Contact Info</th>
+            <th>Role</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+            <tr>
+                <td>@user.Id</td>
+                <td>@user.Name</td>
+                <td>@user.Surname</td>
+                <td>@user.ContactInfo</td>
+                <td>@user.Role</td>
+                <td>
+                    <a asp-controller="Hr" asp-action="EditUser" asp-route-id="@user.Id">Edit</a>
+                </td>
+            </tr>
+        }
+        </tbody>
+</table>
+<a asp-controller="Hr" asp-action="AcceptedClaimsReport" class="btn btn-primary">View All Accepted Claims</a>
+
+<a asp-controller="Account" asp-action="Login" style="float:right;">Logout</a>
